@@ -2,13 +2,13 @@
 
 Several functions implemented on lazy computations and streams:
 
-Stream.take(n)
-Stream.drop(n)   
-Stream.exists(p)
-Stream.foldRight(z)(f)
-Stream.forAll(p)  
-Stream.from(n)
-streaming Fibonacci numbers
-Stream.map()     
-Stream.filter()  
-streaming prime numbers  
+Stream.take(n) <br />
+Stream.drop(n) <br />   
+Stream.exists(p) <br />
+Stream.foldRight(z)(f) <br />
+Stream.forAll(p) <br />  
+Stream.from(n) <br />
+streaming Fibonacci numbers <br />
+Stream.map() <br />     
+Stream.filter() <br />  
+streaming prime numbers <br />  
